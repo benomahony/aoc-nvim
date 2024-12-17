@@ -16,7 +16,7 @@ Using [lazy.nvim](https://github.com/folke/lazy.nvim):
 
 ```lua
 {
-    'yourusername/aoc-nvim',
+    'benomahony/aoc-nvim',
     dependencies = {
         'neovim/pynvim',
     },
@@ -30,7 +30,7 @@ Using [lazy.nvim](https://github.com/folke/lazy.nvim):
 ## Requirements
 
 - Neovim >= 0.8.0
-- Python >= 3.11
+- Python >= 3.13
 - pynvim
 
 ## Setup
